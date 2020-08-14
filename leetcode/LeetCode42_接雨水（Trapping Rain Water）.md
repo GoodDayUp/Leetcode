@@ -1,0 +1,68 @@
+﻿---
+LeetCode42:接雨水(Trapping Rain Water)
+---
+
+
+#### 英文题目：
+
+
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190903135323544.png)
+
+The above elevation map is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. In this case, 6 units of rain water (blue section) are being trapped. Thanks Marcos for contributing this image!
+
+**Example:**
+
+```
+Input: [0,1,0,2,1,0,1,3,2,1,2,1]
+Output: 6
+```
+
+
+
+#### 中文题目：
+
+
+给定 n 个非负整数表示每个宽度为 1 的柱子的高度图，计算按此排列的柱子，下雨之后能接多少雨水。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190903135502317.png)
+
+上面是由数组 [0,1,0,2,1,0,1,3,2,1,2,1] 表示的高度图，在这种情况下，可以接 6 个单位的雨水（蓝色部分表示雨水）。 感谢 Marcos 贡献此图。
+
+**示例:**
+
+```
+输入: [0,1,0,2,1,0,1,3,2,1,2,1]
+输出: 6
+```
+
+
+
+
+#### 解答：
+
+##### C++
+
+```
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        int res=0;
+        stack<int> stk;
+        
+        for (int i=0;i<height.size();i ++)
+        {
+            int last=0;
+            while (stk.size() && height[stk.top()] <=height[i])
+            {
+                int t=stk.top();
+                stk.pop();
+                res +=(i-t-1)*(height[t]-last);
+                last=height[t];
+            }
+            if (stk.size()) res +=(i-stk.top()-1)*(height[i]-last);
+            stk.push(i);
+        }
+        return res;
+    }
+};
+```
