@@ -2,4 +2,4 @@
 
 题目 | 链接 | 解答
 ---- | ---- | ----
-40 最小的K个数 | https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/ | Python3
+40 最小的K个数 | https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/ | [Python3](https://github.com/learningdayup/Leetcode/blob/master/%E5%89%91%E6%8C%87Offer/40%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)
