@@ -18,5 +18,6 @@
 300 最长上升子序列 | https://leetcode-cn.com/problems/longest-increasing-subsequence/ | [Python3]
 322 零钱兑换 | https://leetcode-cn.com/problems/coin-change/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/322%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
 403 青蛙过河 | https://leetcode-cn.com/problems/frog-jump/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/403%20%E9%9D%92%E8%9B%99%E8%BF%87%E6%B2%B3.md)
+633 平方数之和 | https://leetcode-cn.com/problems/sum-of-square-numbers/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/633%20%E5%B9%B3%E6%96%B9%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 1473 给房子涂色 III | https://leetcode-cn.com/problems/paint-house-iii/ | [Python3]
 
