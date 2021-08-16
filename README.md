@@ -1,2 +1,2 @@
 ## Leetcode
-leetcode刷题：https://leetcode-cn.com/u/learningdayup/
+leetcode刷题:Python、C++、Java
