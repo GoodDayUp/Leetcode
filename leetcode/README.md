@@ -8,6 +8,7 @@
 
 题目 | 链接 | 解答
 ---- | ---- | ----
+1 两数之和 | https://leetcode-cn.com/problems/two-sum/submissions/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/1%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 11 盛最多水的容器 | https://leetcode-cn.com/problems/container-with-most-water/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/11%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
 62 不同路径 | https://leetcode-cn.com/problems/unique-paths/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/62%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
 63 不同路径 II | https://leetcode-cn.com/problems/unique-paths-ii/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/63%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.md)
