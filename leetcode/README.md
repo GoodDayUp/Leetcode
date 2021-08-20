@@ -18,6 +18,7 @@
 152 乘积最大子数组 | https://leetcode-cn.com/problems/maximum-product-subarray/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/152%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md)
 167 两数之和 II - 输入有序数组 | https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/11%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
 169 多数元素 | https://leetcode-cn.com/problems/majority-element/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/169%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
+217 存在重复元素 | https://leetcode-cn.com/problems/contains-duplicate/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/217%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)
 300 最长上升子序列 | https://leetcode-cn.com/problems/longest-increasing-subsequence/ | [Python3]
 322 零钱兑换 | https://leetcode-cn.com/problems/coin-change/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/322%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
 343 整数拆分 | https://leetcode-cn.com/problems/integer-break/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/343%20%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.md)
