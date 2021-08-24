@@ -43,7 +43,10 @@
 566 重塑矩阵 | https://leetcode-cn.com/problems/reshape-the-matrix/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/566%20%E9%87%8D%E5%A1%91%E7%9F%A9%E9%98%B5.md)
 575 分糖果 | https://leetcode-cn.com/problems/distribute-candies/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/575%20%E5%88%86%E7%B3%96%E6%9E%9C.md)
 594 最长和谐子序列 | https://leetcode-cn.com/problems/longest-harmonious-subsequence/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/594%20%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97.md)
+599 两个列表的最小索引总和 | https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/599%20%E4%B8%A4%E4%B8%AA%E5%88%97%E8%A1%A8%E7%9A%84%E6%9C%80%E5%B0%8F%E7%B4%A2%E5%BC%95%E6%80%BB%E5%92%8C.md)
 633 平方数之和 | https://leetcode-cn.com/problems/sum-of-square-numbers/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/633%20%E5%B9%B3%E6%96%B9%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+645 错误的集合 | https://leetcode-cn.com/problems/set-mismatch/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/645%20%E9%94%99%E8%AF%AF%E7%9A%84%E9%9B%86%E5%90%88.md)
+697 数组的度 | https://leetcode-cn.com/problems/degree-of-an-array/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/697%20%E6%95%B0%E7%BB%84%E7%9A%84%E5%BA%A6.md)
 1109 航班统计 | https://leetcode-cn.com/problems/corporate-flight-bookings/ | [Python3](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/1109%20%E8%88%AA%E7%8F%AD%E9%A2%84%E8%AE%A2%E7%BB%9F%E8%AE%A1.md)
 1191 K次串联后最大子数组之和 | https://leetcode-cn.com/problems/k-concatenation-maximum-sum/ | [Python3、C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/1191.K%E6%AC%A1%E4%B8%B2%E8%81%94%E5%90%8E%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E4%B9%8B%E5%92%8C.md)
 1473 给房子涂色 III | https://leetcode-cn.com/problems/paint-house-iii/ | [Python3]
