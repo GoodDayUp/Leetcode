@@ -8,7 +8,7 @@
 
 题目 | 链接 | 解答
 ---- | ---- | ----
-1 两数之和 | https://leetcode-cn.com/problems/two-sum/submissions/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/1%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+1 两数之和 | https://leetcode-cn.com/problems/two-sum/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/1%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 11 盛最多水的容器 | https://leetcode-cn.com/problems/container-with-most-water/ | [Python3](https://github.com/learningdayup/Leetcode-python/blob/master/leetcode/11%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
 20 有效的括号 | https://leetcode-cn.com/problems/valid-parentheses/ | [Python3](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/20%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
 33 搜索旋转排序数组 | https://leetcode-cn.com/problems/search-in-rotated-sorted-array/ | [C++](https://github.com/GoodDayUp/Leetcode/blob/master/leetcode/33%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
